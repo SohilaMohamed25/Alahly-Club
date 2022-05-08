@@ -1,0 +1,10 @@
+body {background-color: #ffffff ; background-image: url('alahly.jpg'); background-repeat: no-repeat; background-position:top right;}
+h1 {color: red ; font-size: 32px ; text-transform: capitalize; text-decoration: underline; text-align: center;}
+p { color: blue ; font-size: 20px; text-align: center; }
+h2 { color: rgb(255,0,0) ; font-family: Arial, Verdana, sans-serif; text-transform:capitalize;}
+ol { color: purple ; font-size: 20px ; font-weight: bold;}
+ul { color: grey; font-size: 20px ;}
+h3 { color: rgb(255,0,0) ; font-family: "Courier New" , monospace; text-transform: capitalize;}
+
+
+     
